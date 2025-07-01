@@ -1,0 +1,1 @@
+Program developed for a bachelor´s thesis. With in this repository you´ll find a modified version of the imx477 driver meant for logging the output of the driver and two libcamera programs, one for video and another for images.
